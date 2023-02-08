@@ -1,4 +1,4 @@
-# 1) Shell Scrit :- Hello World
+# 1) Shell Script :- Hello World
 ```
 echo "Hello World" 
 
@@ -20,7 +20,7 @@ done
 ![While2](https://user-images.githubusercontent.com/112624754/217423933-3cf315a9-b146-4a9c-a505-6e3d3b8394d4.png)
 
 
-# 3) Shell Scrit :- For Loop
+# 3) Shell Script :- For Loop
 ```
 #!\bin\bash
 for((i=10;i>0;i--))
@@ -33,7 +33,7 @@ printf "\n"
 ![For2](https://user-images.githubusercontent.com/112624754/217424008-d28e7539-a94b-44f0-999c-36d7a4219b98.png)
 
 
-# 4) Shell Scrit :- Get User Input 
+# 4) Shell Script :- Get User Input 
 ```
 #!\bin\bash
 echo "Ener Name"
@@ -44,7 +44,7 @@ echo "Welcome !! $name to JavaTPoint"
 ![Get](https://user-images.githubusercontent.com/112624754/217423988-ea0aa8b9-61ff-496b-913a-42831d0f92fc.png)
 
 
-# 5) Shell Scrit :- If Else Statment
+# 5) Shell Script :- If Else Statment
 ```
 #!\bin\bash
 echo "Enter Value"
@@ -61,7 +61,7 @@ fi
 ![if](https://user-images.githubusercontent.com/112624754/217424044-81436891-710d-4e0e-affd-6cbbc25f2121.png)
 
 
-# 6) Shell Scrit :- Command Line Argument
+# 6) Shell Script :- Command Line Argument
 ```
 #!\bin\bash
 echo "Total Arguments : $#"
